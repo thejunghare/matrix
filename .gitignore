@@ -1,0 +1,14 @@
+# --- GLOBAL ---
+.DS_Store
+
+# --- BACKEND (Ignored Data) ---
+unified-backend/synapse-data/
+unified-backend/whatsapp-data/
+unified-backend/*.log
+
+# --- FRONTEND (Ignored Dependencies) ---
+WhatsAppLogin/node_modules/
+WhatsAppLogin/.expo/
+WhatsAppLogin/dist/
+WhatsAppLogin/web-build/
+WhatsAppLogin/*.env
