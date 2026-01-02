@@ -1,0 +1,28 @@
+{
+  "name": "unified-frontend",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "events": "^3.3.0",
+    "expo": "~54.0.30",
+    "expo-build-properties": "^1.0.10",
+    "expo-status-bar": "~3.0.9",
+    "matrix-js-sdk": "^39.4.0",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-get-random-values": "^2.0.0",
+    "react-native-quick-crypto": "^1.0.6",
+    "stream-browserify": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
