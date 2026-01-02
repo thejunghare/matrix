@@ -7,8 +7,8 @@ unified-backend/whatsapp-data/
 unified-backend/*.log
 
 # --- FRONTEND (Ignored Dependencies) ---
-WhatsAppLogin/node_modules/
-WhatsAppLogin/.expo/
-WhatsAppLogin/dist/
-WhatsAppLogin/web-build/
-WhatsAppLogin/*.env
+unified-frontend/node_modules/
+unified-frontend/.expo/
+unified-frontend/dist/
+unified-frontend/web-build/
+frontend/*.env
